@@ -18,7 +18,8 @@ import datetime
 import mimetools
 import json
 
-import acrcloud_extr_tool
+import acrcloud_extr_tool.so
+
 
 '''
 Copyright 2015 ACRCloud Recognizer v1.0.0
