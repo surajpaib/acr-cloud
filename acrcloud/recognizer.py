@@ -18,7 +18,7 @@ import datetime
 import mimetools
 import json
 
-import acrcloud_extr_tool.so
+import acrcloud_extr_tool
 
 
 '''
